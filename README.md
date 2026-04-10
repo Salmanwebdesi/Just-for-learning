@@ -1,3 +1,4 @@
 # Just-for-learning
-it is just for learning repo, please skip this and move forward
-Author: Mr Salman
+This is my first repository
+<br>
+Author: Mr Salman khan
